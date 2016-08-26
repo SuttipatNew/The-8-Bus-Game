@@ -39,7 +39,7 @@ public class Warning extends Actor
             }
             else
             {
-                setImage("warning.png");
+                setImage("busstop2.png");
             }
             this.display = !this.display;
             blinkTime = System.currentTimeMillis();

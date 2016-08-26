@@ -96,16 +96,16 @@ public class Road extends World
         
         tree tree = new tree();
         tree.setRotation(-90);
-        addObject(tree,553,108);
+        addObject(tree,553,50);
         tree tree2 = new tree();
         tree2.setRotation(-90);
-        addObject(tree2,553,299);
+        addObject(tree2,553,250);
         tree tree3 = new tree();
         tree3.setRotation(-90);
-        addObject(tree3,48,108);
+        addObject(tree3,48,50);
         tree tree4 = new tree();
         tree4.setRotation(-90);
-        addObject(tree4,48,299);
+        addObject(tree4,48,250);
         BusStop bs = new BusStop();
         bs.setRotation(-90);
         addObject(bs, 46, 295);
